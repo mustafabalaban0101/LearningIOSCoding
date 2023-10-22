@@ -1,0 +1,95 @@
+import UIKit
+
+var ilce = "Çankaya"
+var kita = "Aysa"
+var faks = "0312 123 45 67"
+var postaKodu = "06130"
+var instaAdres = "@myinstaaddress"
+var calistiginBolum = "Reklam"
+var urunMiktari = 1456
+var musteriSoyadı = "BALABAN"
+var odemeMiktari = 18950
+var dogumTarihi = "01.01.1987"
+var borc = 50
+var medeniHal = "Evli"
+var videoYorumu = "EheEhe"
+var odemeSaati = 18.15
+var eftMiktari = 10750
+var satilanMiktar = 48
+var telefonModeli = "Iphone 14"
+var dergiAdi = "CHIP"
+var basimTarihi = "10.10.2023"
+var enlem = 39.9272
+var boylam = 32.8644
+var yemekAdi = "Domates Çorbası"
+var urunFiyati = "19999"
+var sirket = "Canon Inc."
+var videoAdi = "MyAppStory.mp4"
+var muzikSuresi = "3:43"
+var mekanPuani = 4.60
+var dosyaAdi = "ToDoList.pdf"
+var resimFormati = "PSD"
+var renk = "Kırmızı"
+var renkKodu = "#E30A17"
+var bilgisayarModeli = "MacBook Pro"
+var ekranBoyutu = 16
+var kullanimSuresi = "4:35"
+var basinc = 3
+var etkinlikGunu = "03.08.2024"
+var odemeGunu = "22.10.2023"
+var yolculukCikisTarihi = "17.12.2023"
+var mahalleAdi = "Aydınlıkevler"
+var otobusHatti = "413 Altınpark - Çankaya"
+var kullanilanDakika = "28:45"
+var kargoTakipNo  = "TK2310111929"
+var kuponSuresi = "31.12.2023"
+var kuponKodu   = "MB19872023"
+var faturaTarihi = "31.12.2023"
+
+
+
+print("İlçe : \(ilce)")
+print("Kıta : \(kita)")
+print("Faks : \(faks)")
+print("Posta Kodu : \(postaKodu)")
+print("Instagram Adresim : \(instaAdres)" )
+print("Çalıştığım Bölüm  : \(calistiginBolum)")
+print("Ürün Miktarı      : \(urunMiktari)")
+print("Müşteri Soyadı    : \(musteriSoyadı)")
+print("Ödeme Miktarı     : \(odemeMiktari)")
+print("Doğum Tarihi      : \(dogumTarihi)")
+print("Borç Bakiyesi     : \(borc)₺")
+print("Medeni Hali       : \(medeniHal)")
+print("Video Yorumu      : \(videoYorumu)")
+print("Ödeme Saati       : \(odemeSaati)")
+print("EFT Miktarı       : \(eftMiktari)")
+print("Satılan Miktar    : \(satilanMiktar)")
+print("Telefon Modeli    : \(telefonModeli)")
+print("Dergi Adı         : \(dergiAdi)")
+print("Basım Tarihi      : \(basimTarihi)")
+print("Enlem             : \(enlem)")
+print("Boylam            : \(boylam)")
+print("Yemek Adı         : \(yemekAdi)")
+print("Ürün Fiyatı       : \(urunFiyati)₺")
+print("Şirket            : \(sirket)")
+print("Video Adı         : \(videoAdi)")
+print("Müzik Süresi      : \(muzikSuresi) dk")
+print("Mekan Puanı       : \(mekanPuani)")
+print("Dosya Adı         : \(dosyaAdi)")
+print("Resim Formatı     : \(resimFormati)")
+print("Renk              : \(renk)")
+print("Renk Kodu         : \(renkKodu)")
+print("Bilgisayar Modeli : \(bilgisayarModeli)")
+print("Ekran Boyutu      : \(ekranBoyutu)'inç")
+print("Kullanım Süresi   : \(kullanimSuresi) Saat")
+print("Basınç            : \(basinc) Bar")
+print("Etkinlik Günü     : \(etkinlikGunu)")
+print("Ödeme Günü        : \(odemeGunu)")
+print("Yolculuk Ç.Tarihi : \(yolculukCikisTarihi)")
+print("Mahalle Adı       : \(mahalleAdi) Mahallesi")
+print("Otobüs Hattı      : \(otobusHatti)")
+print("Kullanılan Dakika : \(kullanilanDakika)")
+print("Kargo Takip No    : \(kargoTakipNo)")
+print("Kupon Süresi      : \(kuponSuresi)")
+print("Kupon Kodu        : \(kuponKodu)")
+print("Fatura Tarihi     : \(faturaTarihi)")
